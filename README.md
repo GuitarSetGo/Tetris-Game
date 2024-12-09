@@ -1,4 +1,4 @@
-# Tetris Game
+# [Tetris Game](https://guitarsetgo.github.io/Tetris-Game/)
 
 A classic Tetris game implemented using HTML, CSS, and JavaScript.
 
