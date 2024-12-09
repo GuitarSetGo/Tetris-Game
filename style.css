@@ -1,0 +1,35 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #000;
+    margin: 0;
+    color: white;
+    font-family: Arial, sans-serif;
+  }
+  
+  #game-container {
+    display: flex;
+  }
+  
+  canvas {
+    border: 1px solid #fff;
+    background-color: #222;
+  }
+  
+  #info {
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+    align-items: center;
+  }
+  
+  #next-piece {
+    border-color: #fff;
+  }
+  
+  #score, #level {
+    margin-top: 10px;
+  }
+  
